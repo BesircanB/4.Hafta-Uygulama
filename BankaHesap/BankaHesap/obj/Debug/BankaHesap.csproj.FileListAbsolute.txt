@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\bin\Debug\BankaHesap.exe.config
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\bin\Debug\BankaHesap.exe
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\bin\Debug\BankaHesap.pdb
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\obj\Debug\BankaHesap.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\obj\Debug\BankaHesap.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\obj\Debug\BankaHesap.exe
+C:\Users\Beşir Can\source\repos\BankaHesap\BankaHesap\obj\Debug\BankaHesap.pdb

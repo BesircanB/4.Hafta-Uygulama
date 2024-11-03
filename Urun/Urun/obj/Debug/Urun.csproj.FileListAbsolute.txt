@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Urun\Urun\bin\Debug\Urun.exe.config
+C:\Users\Beşir Can\source\repos\Urun\Urun\bin\Debug\Urun.exe
+C:\Users\Beşir Can\source\repos\Urun\Urun\bin\Debug\Urun.pdb
+C:\Users\Beşir Can\source\repos\Urun\Urun\obj\Debug\Urun.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Urun\Urun\obj\Debug\Urun.exe
+C:\Users\Beşir Can\source\repos\Urun\Urun\obj\Debug\Urun.pdb

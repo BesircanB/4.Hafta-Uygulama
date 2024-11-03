@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\bin\Debug\AracKirala.exe.config
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\bin\Debug\AracKirala.exe
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\bin\Debug\AracKirala.pdb
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\obj\Debug\AracKirala.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\obj\Debug\AracKirala.exe
+C:\Users\Beşir Can\source\repos\AracKirala\AracKirala\obj\Debug\AracKirala.pdb
